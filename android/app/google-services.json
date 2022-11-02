@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345975094249",
+    "project_id": "curdfirebase-26cab",
+    "storage_bucket": "curdfirebase-26cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345975094249:android:674ee624a8892cddb6e978",
+        "android_client_info": {
+          "package_name": "com.example.curd_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345975094249-dri4g487sahupvli6hpgjmthffu81c9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHuuxn8pOMPRSNd29LjePTJXPF8-2PWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345975094249-dri4g487sahupvli6hpgjmthffu81c9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
